@@ -146,13 +146,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "phixlab_money",
+      "name": "Yawar",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-09-06T15:39:09.203997Z",
+  "generated": "2023-09-06T15:44:54.383140Z",
   "generator": "pub",
   "generatorVersion": "3.0.6"
 }
